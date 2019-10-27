@@ -3,11 +3,6 @@
 #include <iostream>
 #include <sstream>
 
-/*mapUpdater::mapUpdater(const std::string &dlmDir)
-{
-	dlmDir_ = dlmDir;
-}*/
-
 mapUpdater::mapUpdater() {}
 mapUpdater::~mapUpdater() {}
 
